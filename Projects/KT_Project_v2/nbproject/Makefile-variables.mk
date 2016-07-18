@@ -9,19 +9,19 @@ CND_DISTDIR=dist
 # Debug configuration
 CND_PLATFORM_Debug=Cygwin_1-Windows
 CND_ARTIFACT_DIR_Debug=dist/Debug/Cygwin_1-Windows
-CND_ARTIFACT_NAME_Debug=kt_project_v777
-CND_ARTIFACT_PATH_Debug=dist/Debug/Cygwin_1-Windows/kt_project_v777
+CND_ARTIFACT_NAME_Debug=kt_project_v2
+CND_ARTIFACT_PATH_Debug=dist/Debug/Cygwin_1-Windows/kt_project_v2
 CND_PACKAGE_DIR_Debug=dist/Debug/Cygwin_1-Windows/package
-CND_PACKAGE_NAME_Debug=ktprojectv777.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/Cygwin_1-Windows/package/ktprojectv777.tar
+CND_PACKAGE_NAME_Debug=ktprojectv2.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/Cygwin_1-Windows/package/ktprojectv2.tar
 # Release configuration
 CND_PLATFORM_Release=Cygwin_1-Windows
 CND_ARTIFACT_DIR_Release=dist/Release/Cygwin_1-Windows
-CND_ARTIFACT_NAME_Release=kt_project_v777
-CND_ARTIFACT_PATH_Release=dist/Release/Cygwin_1-Windows/kt_project_v777
+CND_ARTIFACT_NAME_Release=kt_project_v2
+CND_ARTIFACT_PATH_Release=dist/Release/Cygwin_1-Windows/kt_project_v2
 CND_PACKAGE_DIR_Release=dist/Release/Cygwin_1-Windows/package
-CND_PACKAGE_NAME_Release=ktprojectv777.tar
-CND_PACKAGE_PATH_Release=dist/Release/Cygwin_1-Windows/package/ktprojectv777.tar
+CND_PACKAGE_NAME_Release=ktprojectv2.tar
+CND_PACKAGE_PATH_Release=dist/Release/Cygwin_1-Windows/package/ktprojectv2.tar
 #
 # include compiler specific variables
 #

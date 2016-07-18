@@ -1,8 +1,8 @@
 /* 
  * File:   main.cpp
- * Author: Dr. Mark E. Lehr
+ * Author: Kolby Townsend
  * Created on July 11th, 2016, 10:30 AM
- * Purpose:  Midterm Menu
+ * Purpose:  Project V2
  */
 
 //System Libraries

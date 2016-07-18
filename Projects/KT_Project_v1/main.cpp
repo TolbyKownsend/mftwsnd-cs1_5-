@@ -2,7 +2,7 @@
  * File:   main.cpp
  * Author: Kolby Townsend
  * Created on July 13th, 2016, 8:30 PM
- * Purpose:  Project 1
+ * Purpose:  Project V1
  */
 
 //System Libraries
