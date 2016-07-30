@@ -63,24 +63,44 @@ int main(int argc, char** argv) {
 
 //     Outputs - Solution to Problem 1
 void prob1(){
-    cout<<"You are entering Problem 1"<<endl;
-    int x;
-    int iIndex = 1;
-    //
-    cout<<"Enter Number"<<endl;
-    cin>>x;
-    cout<<"            "<<endl;
-    //
-  
-    //
-    while (iIndex <= x){ 
-    cout << iIndex++ <<endl;
+    //Declare Variables
+    
+    short num;
+    unsigned short reverse;
+    
+    //Input Data
+    
+    cout << "Enter an integer: ";
+    cin >> num;
+    while(num != 0)
+    {
+        int remainder = num%10;
+        reverse = reverse*10 + remainder;
+        num/=10;
+    }
+    
+    //Process the Data
+    
+    if(reverse <= 32000)
+    {
+        cout << "signed" << endl;
+    }
+    else if(reverse < 32000 || reverse < 65535)
+    {
+        cout << "unsigned" << endl;
+    }
+    else
+    {
+        cout << "conversion not possible" << endl;
+    }
+    cout << " " << endl;
+    
+    //Output the processed Data
+    
+    cout << "Reversed number = " << reverse;
     
     
     }
-   
-    
-}
 //
 //
 //                                 Problem 2
